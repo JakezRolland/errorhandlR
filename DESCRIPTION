@@ -1,4 +1,4 @@
-Package: errorhandlr
+Package: libraryr
 Title: R error handler
 Version: 0.0.1
 Authors@R: person("Jakez", "Rolland", email = "jakez.rolland@gmail.com", role = c("aut", "cre"))
